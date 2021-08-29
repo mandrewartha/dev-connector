@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://mandrew:mrasdg@cluster0.koamm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret",
+    "githubDlientId":"260005293fa4fe01917d",
+    "githubSecret":"f1ea531fcd89ee58bcd685e63a63041243cb9faf"
+}
